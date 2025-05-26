@@ -27,6 +27,11 @@ This project trains an intelligent agent to land a lunar module safely using rei
 The environment is considered **solved** when the **average score over 100 episodes** is >= 200.  
 My agent solved it in about **XXX episodes**.
 
+## 🚀 Screenshot of Training the agent on Landing
+
+![Moon Landing](Screenshot_moon_Landing.png)
+
+
 ## 📹 Demo
 
 ![Moon Lander Agent Demo](Landing_on_the_Moon.mp4)
