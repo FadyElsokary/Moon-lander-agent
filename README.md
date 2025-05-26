@@ -29,7 +29,7 @@ My agent solved it in about **XXX episodes**.
 
 ## 📹 Demo
 
-![Moon Lander Agent Demo](video/landing.mp4)
+![Moon Lander Agent Demo](Landing_on_the_Moon.mp4)
 
 ## ▶️ How to Run
 
